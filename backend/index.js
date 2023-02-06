@@ -49,7 +49,7 @@ setInterval(() => {
 
 //DB CONNECTION
 const DB_URL =
-  "mongodb+srv://mullayam06:LNA75QfqCmVDiaBl@cluster0.68i99bx.mongodb.net/reminderApp";
+  "dtabase connection url goes here";
 // mongoose.set('strictQuery',true)
 mongoose.connect(
   DB_URL,
